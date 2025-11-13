@@ -1,0 +1,11 @@
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\bin\Debug\net8.0\SistemaPDV.Models.deps.json
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\bin\Debug\net8.0\SistemaPDV.Models.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\bin\Debug\net8.0\SistemaPDV.Models.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\SistemaPDV.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\SistemaPDV.Models.AssemblyInfoInputs.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\SistemaPDV.Models.AssemblyInfo.cs
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\SistemaPDV.Models.csproj.CoreCompileInputs.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\SistemaPDV.Models.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\refint\SistemaPDV.Models.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\SistemaPDV.Models.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Models\obj\Debug\net8.0\ref\SistemaPDV.Models.dll

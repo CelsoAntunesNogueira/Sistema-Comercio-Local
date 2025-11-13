@@ -1,0 +1,16 @@
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\bin\Debug\net8.0-windows\SistemaPDV.exe
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\bin\Debug\net8.0-windows\SistemaPDV.deps.json
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\bin\Debug\net8.0-windows\SistemaPDV.runtimeconfig.json
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\bin\Debug\net8.0-windows\SistemaPDV.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\bin\Debug\net8.0-windows\SistemaPDV.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.Form1.resources
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.csproj.GenerateResource.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.AssemblyInfoInputs.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.AssemblyInfo.cs
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.csproj.CoreCompileInputs.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\refint\SistemaPDV.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\SistemaPDV.genruntimeconfig.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV\obj\Debug\net8.0-windows\ref\SistemaPDV.dll

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+	<Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="5.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaPDV.Business\SistemaPDV.Business.csproj" />
+    <ProjectReference Include="..\SistemaPDV.Data\SistemaPDV.Data.csproj" />
+    <ProjectReference Include="..\SistemaPDV.Models\SistemaPDV.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<Reference Include="Microsoft.VisualBasic" />
+  </ItemGroup>	
+	
+</Project>

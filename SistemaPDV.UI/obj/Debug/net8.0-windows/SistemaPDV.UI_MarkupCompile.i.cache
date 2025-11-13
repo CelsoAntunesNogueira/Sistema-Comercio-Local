@@ -1,0 +1,20 @@
+﻿SistemaPDV.UI
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.UI\obj\Debug\net8.0-windows\
+SistemaPDV.UI
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.UI\App.xaml
+8525148246
+22779836243
+13-2014393333
+224445296396
+Views\ClientesWindow.xaml;Views\ConfiguracoesWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\ProdutosWindow.xaml;Views\RelatoriosWindow.xaml;Views\UsuariosWindow.xaml;Views\VendasWindow.xaml;
+
+False
+

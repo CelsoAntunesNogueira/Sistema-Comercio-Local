@@ -1,0 +1,17 @@
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Business.deps.json
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Business.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Business.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Data.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Models.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Data.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\bin\Debug\net8.0\SistemaPDV.Models.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.csproj.AssemblyReference.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.AssemblyInfoInputs.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.AssemblyInfo.cs
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.csproj.CoreCompileInputs.cache
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaP.3E4E152D.Up2Date
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\refint\SistemaPDV.Business.dll
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\SistemaPDV.Business.pdb
+C:\Users\celsi\OneDrive\Área de Trabalho\Projetos\PDV\SistemaPDV\SistemaPDV.Business\obj\Debug\net8.0\ref\SistemaPDV.Business.dll
